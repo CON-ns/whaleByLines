@@ -6,8 +6,8 @@ import { RenderPass } from 'three/examples/jsm/postprocessing/RenderPass.js';
 import { UnrealBloomPass } from 'three/examples/jsm/postprocessing/UnrealBloomPass.js';
 import { EffectComposer } from 'three/examples/jsm/postprocessing/EffectComposer.js';
 
-const whalePath = "./three-project/texture/ballena.obj";
-// const whalePath = "./texture/BL_WHALE.obj";
+// const whalePath = "./texture/ballena.obj";
+const whalePath = "./texture/BL_WHALE.obj";
 
 //canvasを定義
 const webgl = document.getElementById('webgl-canvas');
