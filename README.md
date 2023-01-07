@@ -5,4 +5,4 @@ npm run dev# whaleByLines
 更新するとき
 git add .
 git commit -m "all done"
-git push
+git push# whale-by-lines
